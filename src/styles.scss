@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+@import "./assets/sass/themes.scss";
+@import "../node_modules/bulma/bulma.sass";
+
+body,
+html {
+  height: 100%;
+}
